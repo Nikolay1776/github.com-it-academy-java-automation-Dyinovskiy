@@ -13,10 +13,8 @@ public class SqrPramoug extends Shape{
 
                return w*h;
     }
-   /* public double length() {
+    public double length() {
 
         return (w + h) *2;
     }
-
-    */
 }

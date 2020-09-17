@@ -10,9 +10,7 @@ public class MyMain  {
 
         for (Shape shape : shapes ){
         System.out.println(shape.sqr());
-        /*System.out.println(shape.length());
-
-         */
+        System.out.println(shape.length());
         }
     }
    }

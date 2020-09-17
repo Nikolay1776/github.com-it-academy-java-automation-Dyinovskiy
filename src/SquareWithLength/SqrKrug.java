@@ -13,10 +13,8 @@ public class SqrKrug extends Shape{
 
             return Math.PI*r*r;
         }
-   /* public double length() {
+   public double length() {
 
     return Math.PI*r*2;
 }
-
-    */
 }

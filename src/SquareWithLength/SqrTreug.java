@@ -2,10 +2,8 @@ package SquareWithLength;
 
 public class SqrTreug extends Shape {
     private double a;
-    /*private double b;
+    private double b;
     private double c;
-
-     */
     private double h;
 
     public SqrTreug(double a, double h) {
@@ -17,10 +15,8 @@ public class SqrTreug extends Shape {
 
         return a*h/2;
     }
-   /* public double length() {
+    public double length() {
 
         return a + b + c;
     }
-
-    */
 }
